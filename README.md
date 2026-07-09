@@ -23,7 +23,7 @@ Just type the numbers of the tools you want (e.g., `1 2 3 5 2`) and the script i
 ---
 ## 🚀 Direct install 
 ```
-curl -fsSL https://raw.githubusercontent.com/onxx-x143/onxx-tool/main/install.sh| bash
+curl -fsSL https://raw.githubusercontent.com/onxx-x143/onxx-tool/install/install.sh| bash
 ```
 ## ✨ Features
 
