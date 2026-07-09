@@ -28,7 +28,7 @@ curl -fsSL https://raw.githubusercontent.com/onxx-x143/onxx-tool/main/main.sh| b
 
 ## Termux install 🥷🏻
 ```
-https://github.com/onxx-x143/onxx-tool.git
+git clone https://github.com/onxx-x143/onxx-tool.git
 cd onxx-tool
 chmod +x main.sh
 bash main.sh
