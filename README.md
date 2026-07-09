@@ -23,10 +23,17 @@ Just type the numbers of the tools you want (e.g., `1 2 3 5 2`) and the script i
 ---
 ## 🚀 Direct install 
 ```
-curl -fsSL https://raw.githubusercontent.com/onxx-x143/onxx-tool/install/install.sh| bash
+curl -fsSL https://raw.githubusercontent.com/onxx-x143/onxx-tool/main/main.sh| bash
+```
+
+## Termux install 🥷🏻
+```
+https://github.com/onxx-x143/onxx-tool.git
+cd onxx-tool
+chmod +x main.sh
+bash main.sh
 ```
 ## ✨ Features
-
 | Feature | Description |
 |---------|-------------|
 | **Interactive Selection** | Choose tools by typing numbers (e.g., `1 5 2 3`) or install all with `all`. |
