@@ -21,11 +21,6 @@ Just type the numbers of the tools you want (e.g., `1 2 3 5 2`) and the script i
 - ⚡ **Global command** – after installation, just type `gateup` to rerun the installer anytime.
 ![install](https://files.catbox.moe/anvfbd.jpg)
 ---
-## 🚀 Direct install 
-```
-curl -L -o main.sh https://raw.githubusercontent.com/onxx-x143/onxx-tool/main/install.sh && bash install.sh
-```
-
 ## Termux install 🥷🏻
 ```
 git clone https://github.com/onxx-x143/onxx-tool.git
