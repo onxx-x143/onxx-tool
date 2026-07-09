@@ -21,7 +21,10 @@ Just type the numbers of the tools you want (e.g., `1 2 3 5 2`) and the script i
 - ⚡ **Global command** – after installation, just type `gateup` to rerun the installer anytime.
 ![install](https://files.catbox.moe/anvfbd.jpg)
 ---
-
+## 🚀 Direct install 
+```
+curl -fsSL https://raw.githubusercontent.com/onxx-x143/onxx-tool/main/install.sh| bash
+```
 ## ✨ Features
 
 | Feature | Description |
@@ -45,5 +48,4 @@ Just type the numbers of the tools you want (e.g., `1 2 3 5 2`) and the script i
 
 ## 🔧 Installation
 
-1. **Clone the repository** (or download
-2. 
+1. **Clone the repository** (or downloa
