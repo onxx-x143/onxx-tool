@@ -2,12 +2,8 @@
 ### *Your Personal Hacking Toolbox – Interactive Installer* 
 ![install](https://files.catbox.moe/sp3yja.png)
 
-**Created by Onxx-x143 (Hari Jadhav)**
+**Created by Onxx-x143*
 ### 🔗Feedback
-
-**by onxx-x143**
-<div align="center">
-
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Now-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_insrnx_)
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe%20Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@onxx-x145)
