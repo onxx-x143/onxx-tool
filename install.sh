@@ -54,6 +54,9 @@ tools["Onxx"]="git clone https://github.com/onxx-x143/Onxx.git"
 tools["URL--8080"]="git clone https://github.com/onxx-x143/URL--8080.git"
 tools["Termux-Banner"]="git clone https://github.com/onxx-x143/Termux-pro-banner.git"
 tools["Hydra"]="git clone https://github.com/onxx-x143/Hydra.git"
+tools["Metasploit Framework"]="curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall && \
+  chmod 755 msfinstall && \
+  ./msfinstall"
 # ---- Add more tools below ----
 # tools["onxx-tool"]="git clone https://github.com/onxx-x143/repo.git"
 
