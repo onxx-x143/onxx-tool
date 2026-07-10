@@ -2,6 +2,20 @@
 ### *Your Personal Hacking Toolbox – Interactive Installer* 
 ![install](https://files.catbox.moe/sp3yja.png)
 
+**Created by Onxx-x143 (Hari Jadhav)**
+### 🔗Feedback
+
+**by onxx-x143**
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Now-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_insrnx_)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe%20Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@onxx-x145)
+
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Now-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/harijadhavai)
+
+---
+
 ![Version](https://img.shields.io/badge/version-3.0-brightgreen)  
 ![Termux](https://img.shields.io/badge/Termux-Compatible-blue)  
 ![Tools](https://img.shields.io/badge/500+-Tools-orange)  
