@@ -57,6 +57,9 @@ tools["Hydra"]="git clone https://github.com/onxx-x143/Hydra.git"
 tools["Metasploit Framework"]="curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall && \
   chmod 755 msfinstall && \
   ./msfinstall"
+tools["Sherlock"]="https://github.com/sherlock-project/sherlock.git"
+tools["OSINT Framework"]="https://github.com/lockfale/OSINT-Framework.git"
+
 # ---- Add more tools below ----
 # tools["onxx-tool"]="git clone https://github.com/onxx-x143/repo.git"
 
