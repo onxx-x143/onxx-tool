@@ -1,6 +1,6 @@
 # 🚀 onxx-Tool  
 ### *Your Personal Hacking Toolbox – Interactive Installer* 
-![install](https://files.catbox.moe/ltekfy.jpg)
+![install](https://files.catbox.moe/sp3yja.png)
 
 ![Version](https://img.shields.io/badge/version-3.0-brightgreen)  
 ![Termux](https://img.shields.io/badge/Termux-Compatible-blue)  
