@@ -56,6 +56,8 @@ tools["Termux-Banner"]="git clone https://github.com/onxx-x143/Termux-pro-banner
 tools["Hydra"]="git clone https://github.com/onxx-x143/Hydra.git"
 tools["Sherlock"]="git clone https://github.com/sherlock-project/sherlock.git"
 tools["OSINT Framework"]="git clone https://github.com/lockfale/OSINT-Framework.git"
+tools["S3Scanner"]="https://github.com/sa7mon/S3Scanner.git"
+tools["IPinfo"]="https://github.com/ipinfo/cli.git"
 
 # Metasploit – attempt to install via Termux’s package (silent fallback if it fails)
 tools["Metasploit Framework"]="pkg install -y metasploit 2>/dev/null || echo 'Metasploit install skipped (not available)'"
