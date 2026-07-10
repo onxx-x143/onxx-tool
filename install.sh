@@ -62,6 +62,7 @@ tools["Hashcat"]="https://github.com/hashcat/hashcat.git"
 tools["sqlmap"]="https://github.com/sqlmapproject/sqlmap.git"
 tools["theHarvester"]="https://github.com/laramies/theHarvester.git"
 tools["GHunt"]="https://github.com/mxrch/GHunt.git"
+tools["kali Linux"]="wget -O install-nethunter-termux https://offs.ec/2MceZWr chmod +x install-nethunter-termux ./install-nethunter-termux"
 
 
 
