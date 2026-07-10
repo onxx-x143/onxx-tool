@@ -60,6 +60,8 @@ tools["S3Scanner"]="https://github.com/sa7mon/S3Scanner.git"
 tools["IPinfo"]="https://github.com/ipinfo/cli.git"
 tools["Hashcat"]="https://github.com/hashcat/hashcat.git"
 tools["sqlmap"]="https://github.com/sqlmapproject/sqlmap.git"
+tools["theHarvester"]="https://github.com/laramies/theHarvester.git"
+
 
 
 # Metasploit – attempt to install via Termux’s package (silent fallback if it fails)
