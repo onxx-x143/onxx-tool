@@ -61,6 +61,8 @@ tools["IPinfo"]="https://github.com/ipinfo/cli.git"
 tools["Hashcat"]="https://github.com/hashcat/hashcat.git"
 tools["sqlmap"]="https://github.com/sqlmapproject/sqlmap.git"
 tools["theHarvester"]="https://github.com/laramies/theHarvester.git"
+tools["GHunt"]="https://github.com/mxrch/GHunt.git"
+
 
 
 
