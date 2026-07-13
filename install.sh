@@ -127,6 +127,7 @@ tools["kali Linux "]="wget -O install-nethunter-termux https://offs.ec/2MceZWr"
 tools["CamHack"]="https://github.com/HARISHKUMAR023/camhack.git"
 tools["infoooze"]="https://github.com/devxprite/infoooze.git"
 tools["Cupp"]="https://github.com/Mebus/cupp.git"
+tools["Seeker"]="https://github.com/thewhiteh4t/seeker.git"
 
 # ---------- Special (needs extra steps) ----------
 tools["WiFi-Pumpkin"]="git clone https://github.com/P0cL4bs/WiFi-Pumpkin.git && cd WiFi-Pumpkin && pip install -r requirements.txt"
