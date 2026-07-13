@@ -87,6 +87,7 @@ install_tool() {
 declare -A tools
 
 # ---------- All GitHub repositories ---------
+tools["maihret"]="git clone https://github.com/soxoj/maigret && cd maigret"
 topls["Xteam"]="https://github.com/xploitstech/Xteam.git"
 tools["Doxxer-Toolkit"]="https://github.com/Euronymou5/Doxxer-Toolkit.git"
 topls["KitHack"]="https://github.com/AdrMXR/KitHack.git"
