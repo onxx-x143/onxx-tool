@@ -135,6 +135,10 @@ tools["Seeker"]="https://github.com/thewhiteh4t/seeker.git"
 tools["Tookie-osint"]="git clone https://github.com/alfredredbird/tookie-osint.git
 cd tookie-osint
 chmod +x install.sh"
+tools["Email-OSINT"]="git clone https://github.com/onxx-x143/Email-OSINT.git
+cd Email-OSINT
+chmod +x main.sh
+bash main.sh"
 
 # ---------- Special (needs extra steps) ----------
 tools["WiFi-Pumpkin"]="git clone https://github.com/P0cL4bs/WiFi-Pumpkin.git && cd WiFi-Pumpkin && pip install -r requirements.txt"
