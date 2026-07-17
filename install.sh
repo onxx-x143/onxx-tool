@@ -124,7 +124,10 @@ tools["CamPhish"]="git clone https://github.com/techchipnet/CamPhish.git"
 tools["IP-Tracker"]="git clone https://github.com/rajkumardusad/IP-Tracker.git"
 tools["PhoneInfoga"]="git clone https://github.com/sundowndev/PhoneInfoga.git"
 tools["Instagram-Py"]="git clone https://github.com/antony-jr/instagram-py.git"
-tools["kali Linux "]="wget -O install-nethunter-termux https://offs.ec/2MceZWr"
+tools["kali Linux "]="git clone https://github.com/onxx-x143/Kali-Linux.git
+cd Kali-Linux
+chmod +x main.sh
+bash main.sh"
 tools["CamHack"]="https://github.com/HARISHKUMAR023/camhack.git"
 tools["infoooze"]="https://github.com/devxprite/infoooze.git"
 tools["Cupp"]="https://github.com/Mebus/cupp.git"
